@@ -14,5 +14,5 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
  ![img](https://github.com/judycyrille/Vertical-Slider/assets/142463080/8d7bdc86-f206-42c3-810d-3c6dfc150e43)
 
- https://judycyrille.github.io/Vertical-Slider/images/img.jpg
+ https://judycyrille.github.io/Vertical-Slider/images/img.jpg 
 
