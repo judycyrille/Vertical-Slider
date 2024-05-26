@@ -8,7 +8,11 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Deployed in Githubpages:
- https://judycyrille.github.io/Vertical-Slider/images/img.jpg
+ https://judycyrille.github.io/Vertical-Slider/
 
 ## Image of the Deployed:
- images/img.jpg
+
+ ![img](https://github.com/judycyrille/Vertical-Slider/assets/142463080/8d7bdc86-f206-42c3-810d-3c6dfc150e43)
+
+ https://judycyrille.github.io/Vertical-Slider/images/img.jpg
+
