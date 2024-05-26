@@ -11,4 +11,4 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
  https://judycyrille.github.io/Vertical-Slider/
 
 ## Image of the Deployed:
-  https://judycyrille.github.io/Vertical-Slider/
+ images/img.jpg
